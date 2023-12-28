@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:González;Ingry;;;
-FN: Ingry González
+N:Abad;Luis;;;
+FN: Luis Abad
 ORG: Fresenius Kabi Colombia;
-TITLE: Auxiliar de Servicio Técnico
-EMAIL;type=INTERNET;type=WORK;type=pref:ingry.gonzalez@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+573183401668
+TITLE: Ingeniero de Servicio Técnico Senior
+EMAIL;type=INTERNET;type=WORK;type=pref:luis.abad@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+573206955061
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:www.fresenius-kabi.com/co
